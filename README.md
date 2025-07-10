@@ -1,8 +1,7 @@
 # 🦊 MetaQR - QR Code Generator
 
 MetaQR is a simple, sleek, MetaMask-inspired QR Code Generator built using HTML, CSS, and JavaScript. It allows users to instantly generate QR codes from any text or URL — no data is stored, and no backend is required.
-
-![MetaQR Preview](https://your-image-link-if-you-upload-screenshot.png)
+![My qrcode gen ui](https://github.com/user-attachments/assets/51dc85fd-6edb-41ce-bf7a-aafc58bd8533)
 
 ---
 
