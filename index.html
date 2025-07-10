@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MetaQR - QR Code Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h1>🦊 MetaQR</h1>
+      <p>Generate your secure QR code like a pro!</p>
+      <input type="text" id="inputText" placeholder="Paste your text or URL here" />
+      <button onclick="generateQR()">Generate QR</button>
+      <div class="qr-output">
+        <img id="qrImage" src="" alt="Your QR Code" />
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
